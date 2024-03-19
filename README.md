@@ -3,8 +3,6 @@ Hi there! 👋 I'm Karthik S, a passionate data enthusiast diving deep into the 
 
 I am currently Learing Data Analytics and Data Science
 
-check out my resume : "C:\Users\karth\Downloads\My_Resume (1).pdf"
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karthik S) 
